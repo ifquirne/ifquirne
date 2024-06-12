@@ -1,2 +1,2 @@
 sstest
-hello
+a
