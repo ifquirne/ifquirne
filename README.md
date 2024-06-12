@@ -1,3 +1,3 @@
-sstest
+gdsstest
 a
 s
